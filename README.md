@@ -124,7 +124,7 @@ HTML CSS Bootstraps GIT Google API
 ## Internship
 ### Al-Khawarizmi Institute of Computer Science (KICS)
 Technology (Android Development)
-01/2020 – current
+01/2020 – 4/2020
 ## Clients Project
 Develop android app for clients.
 <br/>
