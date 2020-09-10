@@ -55,12 +55,15 @@
 <p>09/2016 – 05/2020 CGPA (3.693)
 Courses
 BS Computer Science
-  </p>
+ </p>
+ 
 ## Intermediate
-### Fazaia Inter College E-9 Islamabad
-08/2013 – 08/2015 81.72%
+## Fazaia Inter College E-9 Islamabad
+ <p>08/2013 – 08/2015 81.72%
 Courses
 F.Sc. Pre Engineering
+   </p>
+  
 ## Matriculation
 ### FG Secondary School Faisal Base, Karachi
 04/2011 – 07/2013 92.82%
@@ -155,7 +158,5 @@ Punjabi
 # REFERENCE
 • Reference documents will be provided on demand
 • https://github.com/MuhammadZeeshanAshraf
-
- 
 
 </div>
