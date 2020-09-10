@@ -1,7 +1,5 @@
 ## Hello, I'm [Muhammad Zeeshan Ashraf!]() 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="Muhammad Zeeshan Ashraf" /> </p>
-
 
 <a href="https://www.linkedin.com/in/zeeshan-ashraf-3279a6168">
   <img align="left" alt="Muhammad Zeeshan Ashraf's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -32,9 +30,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love watching anime.
 
-[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zeeshan-ashraf-3279a6168)](https://www.linkedin.com/in/imthepk/)
-[![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/MuhammadZeeshanAshraf)
-[![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://github.com/MuhammadZeeshanAshraf)
 
 
 **Languages and Tools:**  
