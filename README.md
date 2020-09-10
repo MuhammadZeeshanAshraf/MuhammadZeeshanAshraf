@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="Muhammad Zeeshan Ashraf" /> </p>
 
 
-<a href="www.linkedin.com/in/zeeshan-ashraf-3279a6168">
+<a href="https://www.linkedin.com/in/zeeshan-ashraf-3279a6168">
   <img align="left" alt="Muhammad Zeeshan Ashraf's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/MuhammadZeeshanAshraf">
