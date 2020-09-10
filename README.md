@@ -47,3 +47,115 @@
 ### Phone Number  : +923045606422!
 
 </div>
+<div align="left">
+
+# EDUCATION
+## Engineering
+### University of Engineering and Technology,Lahore.
+<p>09/2016 – 05/2020 CGPA (3.693)
+Courses
+BS Computer Science
+  </p>
+## Intermediate
+### Fazaia Inter College E-9 Islamabad
+08/2013 – 08/2015 81.72%
+Courses
+F.Sc. Pre Engineering
+## Matriculation
+### FG Secondary School Faisal Base, Karachi
+04/2011 – 07/2013 92.82%
+Courses
+Science
+<br/>
+<br/>
+# PROJECTS
+## C++ & C# Projects
+• Snake Game using C++ language
+• Jazz Cash Win Form Application using
+## C#
+• Pharmacy System ASP.Net Application
+• Bank Account Management Win Form
+Application using C#
+ Java & PHP Projects
+• Hospital Management System using
+## java
+• Content Management System using
+## PHP
+Artificial Intelligence & Python Projects
+• Diabetes Prediction Application using
+## python
+• Election Prediction Application using
+python
+• Tic Tac Toe AI Based Android App
+• Gender Profiling Prediction python
+## Android App Development Projects
+• HyComm (Hybrid Communicator) Final
+Year Project
+• Weather Forecasting App
+• Tic Tac Toe AI Based Android App
+• Calculator App
+• Flying Fish App
+• Flying Helicopter App
+• Super Browser
+• Tic Tac Toe App
+• Online Quiz App
+• Eat it
+• Shopping Cart App
+• Teacher Assistant App
+• School Management System App
+• Location Finder App
+• Music Player App
+• Animal Quiz App
+• Status Downloader App
+• E-Commerce App
+<br/>
+<br/>
+## SKILLS
+C++ C# Java Python App Development
+HTML CSS Bootstraps GIT Google API
+ API Development Android SDK Developer Tools
+ Database SQL Machine Learning Data Mining
+ <br/>
+<br/>
+# Experience
+## Internship
+### Al-Khawarizmi Institute of Computer Science (KICS)
+Technology (Android Development)
+01/2020 – current
+## Clients Project
+Develop android app for clients.
+<br/>
+<br/>
+# AHIEVEMENTS
+• Launch Six Apps on Google Play Store
+• 2nd Position APPE’19 for project and poster making
+in University of Engineering and Technology, Lahore
+• Certified as Java developer from Aptech Computer
+education.
+<br/>
+<br/>
+# EXTRA CURRICULAR ACTIVITIES
+• Badminton
+• Cricket
+• General Knowledge Gathering
+<br/>
+<br/>
+# LANGUAGES
+Urdu
+English
+Punjabi
+<br/>
+<br/>
+# INTERESTS
+• Excelling in Development of Software
+• Research in my Field
+• Increasing my Social Relations
+<br/>
+<br/>
+# REFERENCE
+• Reference documents will be provided on demand
+• https://github.com/MuhammadZeeshanAshraf
+
+ 
+
+</div>
