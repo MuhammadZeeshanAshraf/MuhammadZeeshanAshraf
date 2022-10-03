@@ -4,8 +4,8 @@
 <p align="center">
 <a href="https://github.com/MuhammadZeeshanAshraf"><img src="https://readme-typing-svg.herokuapp.com?lines=NodeJs+And+NestJs+Developer;Senior+Backend+Engineer;AWS+And+Oracle+Cloud+Developer;MERN+STACK+Developer&center=true&width=500&height=50"></a>
   
-
-<a href="https://www.linkedin.com/in/zeeshan-ashraf-3279a6168">
+<div>
+ <a href="https://www.linkedin.com/in/zeeshan-ashraf-3279a6168">
   <img align="left" alt="Muhammad Zeeshan Ashraf's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/MuhammadZeeshanAshraf">
@@ -18,6 +18,8 @@
 <a href="https://web.facebook.com/zeeshan.ashraf.9699523">
   <img align="left" alt="Muhammad Zeeshan Ashraf's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+ </div>
+
 
 
 <br/>
