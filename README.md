@@ -2,7 +2,7 @@
     <h1> Hi there, I'm Zeeshan Ashraf🚀<a href="#"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/MuhammadZeeshanAshraf"><img src="https://readme-typing-svg.herokuapp.com?lines=NodeJs+And+NestJs+Developer;Senior+Backend+Engineer;AWS+And+Oracle+Cloud+Developer;MERN+STACK+Developer&center=true&width=500&height=50"></a>
+<a href="https://github.com/MuhammadZeeshanAshraf"><img src="https://readme-typing-svg.herokuapp.com?lines=NodeJs+And+NestJs+Developer;Senior+Backend+Engineer;AWS+And+Oracle+Cloud+Consultant;MERN+STACK+Developer&center=true&width=500&height=50"></a>
   
 <div  align="center">
  <a href="https://www.linkedin.com/in/zeeshan-ashraf-3279a6168">
