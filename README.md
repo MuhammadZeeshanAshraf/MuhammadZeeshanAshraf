@@ -121,7 +121,34 @@
 |Stats />|Streak />|Languages />
 |---|---|---|
 |![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuhammadZeeshanAshraf&theme=gruvbox)|[![GitHub Streak](https://streak-stats.demolab.com/?user=MuhammadZeeshanAshraf&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadZeeshanAshraf&theme=gruvbox)|
- 
+
+
+## ⚡️Github Contributions
+	
+<h4 align="center">Isometric view of contributions in the last year</h4>
+<p align="center">
+	<a href="./profile-3d-contrib/profile-night-rainbow.svg">
+		<img width="900em" src="./profile-3d-contrib/profile-night-rainbow.svg">
+	</a>
+</p>
+
+## 🚀Github Metrics
+
+<p align="center">
+	<img width="625em" src="https://github.com/MuhammadZeeshanAshraf/MuhammadZeeshanAshraf/blob/main/github-metrics.svg" />
+</p>
+	
+## 🐛Github Magic Game
+
+<p align="center">
+  <img src="https://github.com/MuhammadZeeshanAshraf/MuhammadZeeshanAshraf/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+<br>
+
+<p align="center"> 
+  Views<br>
+  <img src="https://profile-counter.glitch.me/MuhammadZeeshanAshraf/count.svg" />
+</p>
 
 
 
