@@ -26,16 +26,17 @@
 <br/>
 
 
+### I'm a Backend Heavy Software Engineer!
 
-- 🔭 I’m currently working on [Next.js App](https://github.com/MuhammadZeeshanAshraf/ArcDevelopment).
-- 🌱 I’m currently learning more about React Native.
-- 👯 I’m looking to collaborate on [Projects]().
-- 🤔 I’m looking for help with documentation.
+- 🔭 I’m currently working as Senior Backend Engineer at [Dastgyr](https://www.dastgyr.com/).
+- 🌱 I’m currently expanding my knowledge in MERN Stack.
+- 👯 I’m looking to collaborate with developers.
 - 💬 Ask me about Android Development or any tech related stuff.
-- 📫 How to reach me: [Twitter - @imthepk](https://twitter.com/imthepk) , [Youtube - @mtechviral](https://youtube.com/mtechviral)
+- 🥅 2022-23 Goals: Contribute more to Open Source projects.
+- 💬 Ask me about Android Development or any tech related stuff.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love watching anime.
-
+- 💎 If you are a Tech person let's get [connected](https://www.linkedin.com/in/zeeshan-ashraf-dev/).
 
 ## 🤝🏻 &nbsp;Reach Out To  Me
 
