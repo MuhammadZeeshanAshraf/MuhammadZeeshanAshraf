@@ -36,13 +36,15 @@
 
 <table width="80%">
 <tr>
-    <td align='center' width="150">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="100">
+	<td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
     </td>
+        <td align='center' width="200">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="90">
+    </td>
+    
 
-  <td align='center' width="150">
-        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="100">
-    </td>
+
  <td align='center' width="150">
         <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="100">
     </td>
@@ -65,12 +67,14 @@
  <td align='center' width="200">
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="170">
     </td>
-     <td align='center' width="200">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="90">
+	 <td align='center' width="200">
+        <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg"  width="70">
     </td>
-    <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
+	</td>
+	 <td align='center' width="200">
+        <img src="https://www.google.com/search?q=aws+logo&rlz=1C1ONGR_enPK1017PK1017&sxsrf=ALiCzsamWkoo0xvM5zPVNsfQ3Clg7m2zjw:1667979744287&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiR4JnhzKD7AhXyF7cAHYhDAvsQ_AUoAXoECAIQAw&biw=2048&bih=1002&dpr=1.25#imgrc=kiUsKk3KBfD3NM"  width="70">
     </td>
+
 </tr>
  
 <tr>
