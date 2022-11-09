@@ -25,7 +25,7 @@
 
 ## 🤝🏻 &nbsp;Reach Out To  Me
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/zeeshan-ashraf-dev/"><img src="https://img.shields.io/badge/-Zeeshan%20Ashraf-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:m.zeeshan.ashraf.633@gmail.com"><img src="https://img.shields.io/badge/-m.zeeshan.ashraf.633@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://leetcode.com/ZeeshanAshraf/"><img src="https://img.shields.io/badge/-Zeeshan%20Ashraf-00000?style=flat&logo=Leetcode&logoColor=yellow"/></a>
@@ -118,6 +118,10 @@
 ## Holopin Board
 [![@zeeshan's Holopin board](https://holopin.io/api/user/board?user=zeeshan)](https://holopin.io/@zeeshan)	
 
+|Stats />|Streak />|Languages />
+|---|---|---|
+|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saadfareed&theme=gruvbox)|[![GitHub Streak](https://streak-stats.demolab.com/?user=saadfareed&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saadhaxxan&theme=gruvbox)|
+ 
 
 
 
