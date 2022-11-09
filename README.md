@@ -72,7 +72,7 @@
     </td>
 	</td>
 	 <td align='center' width="200">
-        <img src="https://logos-world.net/amazon-web-services-logo/"  width="70">
+        <img src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg"  width="70">
     </td>
 
 </tr>
