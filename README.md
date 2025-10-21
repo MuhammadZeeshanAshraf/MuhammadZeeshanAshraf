@@ -11,17 +11,16 @@
 <br/>
 
 
-### I'm a Backend Heavy Software Engineer and Coding Lunatic!
+### 🚀 I'm a Backend-Heavy Software Engineer & Cloud Builder
 
-- 🔭 I’m currently working as Senior Backend Engineer at [Dastgyr](https://www.dastgyr.com/).
-- 🌱 I’m currently expanding my knowledge in MERN Stack.
-- 👯 I’m looking to collaborate with developers.
-- 💬 Ask me about Android Development or any tech related stuff.
-- 🥅 2022-23 Goals: Contribute more to Open Source projects.
-- 💬 Ask me about Android Development or any tech related stuff.
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I love watching anime.
-- 💎 If you are a Tech person let's get [connected](https://www.linkedin.com/in/zeeshan-ashraf-dev/).
+- 🔭 Currently working on **scalable SaaS platforms and backend systems**.  
+- 🌱 Expanding my knowledge in **AI integrations, automation, and cloud-native architectures**.  
+- 👯 Looking to collaborate on **backend-heavy projects, SaaS products, and open-source contributions**.  
+- 💬 Ask me about **NestJS, Node.js, PostgreSQL, AWS, and building production-ready infrastructures**.  
+- 🥅 Goals: Keep shipping impactful software, grow as a mentor, and contribute more to open source.  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: When I’m not scaling servers, I’m scaling anime marathons 🍥  
+- 💎 If you’re a tech person,, let’s get [connected](https://www.linkedin.com/in/zeeshan-ashraf-dev/).  
 
 ## 🤝🏻 &nbsp;Reach Out To  Me
 
