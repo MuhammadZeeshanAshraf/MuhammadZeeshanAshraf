@@ -1,8 +1,13 @@
  <div align="center">
-    <h1> Hi there, I'm Zeeshan Ashraf🚀<a href="#"></h1>
+    <h1>Hi, I'm Zeeshan Ashraf 👋</h1>
   </div>
 <p align="center">
-<a href="https://github.com/MuhammadZeeshanAshraf"><img src="https://readme-typing-svg.herokuapp.com?lines=NodeJs+And+NestJs+Developer;Senior+Backend+Engineer;AWS+And+Oracle+Cloud+Consultant;MERN+STACK+Developer&center=true&width=500&height=50"></a>
+<a href="https://github.com/MuhammadZeeshanAshraf"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&lines=Senior+Full-Stack+%26+AWS+Cloud+Engineer;Senior+Software+Engineer+%26+Technical+Lead;I+build+SaaS%2C+AI+%26+Cloud+products+end+to+end;8%2B+years+%C2%B7+AWS+Certified+%C3%974&center=true&width=620&height=50"></a>
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/zeeshan-ashraf-dev/"><img src="https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.credly.com/users/muhammad-zeeshan-ashraf.9b728228"><img src="https://img.shields.io/badge/AWS_Certified-%C3%974-FF9900?style=flat&logo=amazonwebservices&logoColor=white"/></a>
   
 
 
@@ -11,18 +16,22 @@
 <br/>
 
 
-### 🚀 I'm a Backend-Heavy Software Engineer & Cloud Builder
+### 👋 About
 
-- 🔭 Currently working on **scalable SaaS platforms and backend systems**.  
-- 🌱 Expanding my knowledge in **AI integrations, automation, and cloud-native architectures**.  
-- 👯 Looking to collaborate on **backend-heavy projects, SaaS products, and open-source contributions**.  
-- 💬 Ask me about **NestJS, Node.js, PostgreSQL, AWS, and building production-ready infrastructures**.  
-- 🥅 Goals: Keep shipping impactful software, grow as a mentor, and contribute more to open source.  
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: When I’m not scaling servers, I’m scaling anime marathons 🍥  
-- 💎 If you’re a tech person,, let’s get [connected](https://www.linkedin.com/in/zeeshan-ashraf-dev/).  
+I'm a senior full-stack engineer with **8+ years** building production SaaS, AI, and cloud-heavy products. I work as a senior engineer and technical lead alongside startups and teams, taking **end-to-end ownership** — from backend architecture and APIs, through the frontend, down to AWS infrastructure, CI/CD, and the AI and automation layer on top. I care about systems that stay reliable well after launch, not just demos.
 
-## 🤝🏻 &nbsp;Reach Out To  Me
+### 🛠️ What I do
+
+- **Backend & APIs** — NestJS, Node.js, TypeScript, and PostgreSQL, designed to scale.
+- **Cloud & DevOps** — AWS architecture, Docker, and CI/CD with deployments you can rely on. *(AWS Certified ×4: Solutions Architect, Developer, AI Practitioner, Cloud Practitioner.)*
+- **AI products** — OpenAI and multi-LLM orchestration, OCR pipelines, and automation built into real products.
+- **Full-stack delivery** — Next.js and React front ends wired cleanly to the systems behind them.
+
+I work best where the hard problems live: scalable backends, real LLM integration, and AWS infrastructure that teams can build on.
+
+## 🤝🏻 &nbsp;Let's connect
+
+I'm open to senior full-stack, AWS, and AI engineering roles and projects. The best place to reach me is **[LinkedIn](https://www.linkedin.com/in/zeeshan-ashraf-dev/)**.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/zeeshan-ashraf-dev/"><img src="https://img.shields.io/badge/-Zeeshan%20Ashraf-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
