@@ -34,94 +34,46 @@ I work best where the hard problems live: scalable backends, real LLM integratio
 I'm open to senior full-stack, AWS, and AI engineering roles and projects. The best place to reach me is **[LinkedIn](https://www.linkedin.com/in/zeeshan-ashraf-dev/)**.
 
 <p align="center">
-<a href="https://www.linkedin.com/in/zeeshan-ashraf-dev/"><img src="https://img.shields.io/badge/-Zeeshan%20Ashraf-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:m.zeeshan.ashraf.633@gmail.com"><img src="https://img.shields.io/badge/-m.zeeshan.ashraf.633@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/ZeeshanAshraf/"><img src="https://img.shields.io/badge/-Zeeshan%20Ashraf-00000?style=flat&logo=Leetcode&logoColor=yellow"/></a>
-<a href="https://www.facebook.com/zeeshan.ashraf.9699523/"><img src="https://img.shields.io/badge/-@Zeeshan-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/zeeshan-ashraf-dev/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:m.zeeshan.ashraf.633@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://zeeshan-ashraf.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=Vercel&logoColor=white"/></a>
+<a href="https://medium.com/@zeeshanashraf633b"><img src="https://img.shields.io/badge/-Medium-000000?style=flat&logo=Medium&logoColor=white"/></a>
 </p>
 
- <h2>Tech Stack</h2>
+## Tech Stack
 
-<table width="80%">
-<tr>
-	<td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
-    </td>
-        <td align='center' width="200">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="90">
-    </td>
-    
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=ts,js,py" alt="Languages" />
 
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,express" alt="Backend" />
 
- <td align='center' width="150">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="100">
-    </td>
- <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="100">
-    </td>
- <td align='center' width="200">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
-    </td>
- 
-</tr>
- 
-<tr>
-    <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="70">
-    </td>
-    <td align='center' width="200">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="80">
-    </td>
- <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="170">
-    </td>
-	 <td align='center' width="200">
-        <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg"  width="70">
-    </td>
-	</td>
-	 <td align='center' width="200">
-        <img src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg"  width="70">
-    </td>
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" alt="Frontend" />
 
-</tr>
- 
-<tr>
-    <td align='center' width="200">
-        <img src="https://www.logo.wine/a/logo/PostgreSQL/PostgreSQL-Logo.wine.svg">
-    </td>
-    <td align='center' width="200">
-        <img src="https://camo.githubusercontent.com/2b97405ead6d87cffc71126648f74f034ab9b77525453aaac85ca79248532854/68747470733a2f2f766567696269742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f657870726573736a732e706e67" >
-    </td>
- <td align='center' width="200">
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
-    </td>
-  <td align='center' width="200">
-        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
-    </td>
-    <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="100">
-    </td>
-</tr>
-	
-<tr>
-    <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"  width="90">
-    </td>
-    <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="80">
-    </td>
- <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" width="150">
-    </td>
-     <td align='center' width="200">
-        <img src="https://www.logo.wine/a/logo/Oracle_Cloud_Platform/Oracle_Cloud_Platform-Logo.wine.svg" width="90">
-    </td>
-    <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="90">
-    </td>
-</tr>
-    
-</table>
+**Databases**<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,redis,mysql" alt="Databases" />
+
+**Cloud & DevOps**<br/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,git" alt="Cloud and DevOps" />
+
+## 🤖 AI & Data
+
+**LLM & Integration**<br/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white" alt="Claude (Anthropic)" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangChain" />
+
+**Voice & Speech**<br/>
+<img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat&logo=elevenlabs&logoColor=white" alt="ElevenLabs" />
+<img src="https://img.shields.io/badge/Amazon%20Transcribe-232F3E?style=flat" alt="Amazon Transcribe" />
+
+**Data Pipelines & Automation**<br/>
+<img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" alt="pandas" />
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" alt="Apache Spark" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" alt="n8n" />
 
 ## Holopin Board
 [![@zeeshan's Holopin board](https://holopin.io/api/user/board?user=zeeshan)](https://holopin.io/@zeeshan)	
