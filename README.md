@@ -95,7 +95,7 @@ I'm open to senior full-stack, AWS, and AI engineering roles and projects. The b
 ## 🚀Github Metrics
 
 <p align="center">
-	<img width="625em" src="https://github.com/MuhammadZeeshanAshraf/MuhammadZeeshanAshraf/blob/main/github-metrics.svg" />
+	<img width="625em" src="./github-metrics.svg" alt="GitHub metrics" />
 </p>
 	
 ## 🐛Github Magic Game
@@ -107,7 +107,7 @@ I'm open to senior full-stack, AWS, and AI engineering roles and projects. The b
 
 <p align="center"> 
   Views<br>
-  <img src="https://profile-counter.glitch.me/MuhammadZeeshanAshraf/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=MuhammadZeeshanAshraf&style=flat&color=brightgreen&label=Profile+Views" alt="Profile views" />
 </p>
 
 
